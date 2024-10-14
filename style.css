@@ -1,0 +1,18 @@
+body{
+
+    background-color: rgb(168, 211, 168);
+    color: rgb(35, 36, 34);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: start;
+
+
+}
+ button{
+background-color: burlywood;
+color: rgb(66, 112, 143);
+border: rgb(62, 62, 182);
+padding: 10px 20px;
+cursor: pointer;
+
+
+ }
